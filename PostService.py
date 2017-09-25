@@ -52,7 +52,7 @@ def driver_m():
     :return: None
     """
     #  define vars and main menu
-    url = 'https://www.pixl8.co.uk/api/jobs/v1/application/'
+    url = ''
 
     # Default payload fields
     fullName = ""
@@ -61,7 +61,7 @@ def driver_m():
     website = ""
     github = ""
     twitter = ""
-    linkedIn = "https://www.linkedin.com/in/jamsawamsa/"
+    linkedIn = ""
     testMode = True
 
     payload = {'fullName': fullName, 'email': email, 'message': message, 'website': website,
