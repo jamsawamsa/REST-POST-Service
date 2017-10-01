@@ -23,7 +23,7 @@ If running from an IDE (like PyCharm), simply open the file then run it.
 8. View payload - View the current contents of your payload
 
 ## Knowns Bugs and Issues
-None at the moment, email me at jamsawamsa@gmail.com if there are any.
+None at the moment, email me at jamsawamsa+github@gmail.com if there are any.
 
 ## Authors
 [Jamsawamsa's Github](https://github.com/jamsawamsa)
